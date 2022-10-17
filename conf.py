@@ -17,7 +17,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Mee Eain Shin"  # (translatable)
-BLOG_TITLE = "Mee Eain Shin - To the ultimate through education"  # (translatable)
+BLOG_TITLE = "Mee Eain Shin"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = ""
@@ -25,7 +25,7 @@ SITE_URL = ""
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
 BLOG_EMAIL = "yemankyawofficial@gmail.com"
-BLOG_DESCRIPTION = "မီးအိမ်ရှင်စာကြည့်တိုက်ရဲ့ဝဘ်ဆိုက်ဖြစ်ပါတယ်"  # (translatable)
+BLOG_DESCRIPTION = "To the ultimate through education..."  # (translatable)
 
 # Nikola is multilingual!
 #
