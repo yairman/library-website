@@ -151,12 +151,27 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "cadair"
-
+THEME = "carpet"
 GLOBAL_CONTEXT = {
-        'FACEBOOK_URL': 'https://facebook.com/mee-eain-shin',
-        'BANNER_URL': '/assets/img/h.jpg'
+    "carpet__unlink_blog_brand": False,
+    "carpet__show_hero": True,
+    "carpet__show_hero_title": True,
+    "carpet__hero_post_title": False,
+    "carpet__hero_size": "",
+    "carpet__hero_footer": "",
+    "carpet__late_load_css": False,
+    "carpet__breadcrumb_home": "fa-home",
+    "carpet__breadcrumb_separator": "fa-angle-right",
+    "carpet__post_type": {
+        "text": "fa-file-text-o"
+    },
+    "carpet__head_prefix": "",
+    "carpet__body_prefix": "",
+    "carpet__content_prefix": "",
+    "carpet__content_suffix": "",
+    "carpet__cookie_message": ""
 }
+
 
 
 # Primary color of your theme. This will be used to customize your theme.
