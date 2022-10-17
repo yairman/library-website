@@ -151,7 +151,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "canterville"
+THEME = "cadair"
 
 GLOBAL_CONTEXT = {
         'FACEBOOK_URL': 'https://facebook.com/mee-eain-shin',
